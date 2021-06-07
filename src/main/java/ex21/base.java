@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Summer 2021 Assignment 20 Solution
+ *  UCF COP3330 Summer 2021 Assignment 21 Solution
  *  Copyright 2021 Julian Espinoza
  *
  *  Exercise 21 - Numbers to Names
